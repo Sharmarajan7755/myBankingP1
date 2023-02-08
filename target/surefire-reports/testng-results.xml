@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-07T18:12:46 IST" name="myBankingP1" finished-at="2023-02-07T18:14:41 IST" duration-ms="115231">
+    <groups>
+    </groups>
+    <test started-at="2023-02-07T18:12:46 IST" name="BankingApp Test" finished-at="2023-02-07T18:14:41 IST" duration-ms="115231">
+      <class name="com.myBanking.testCases.TC_AddCustomer_003">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.myBanking.testCases.TC_AddCustomer_003@1ed6388a]" started-at="2023-02-07T18:13:38 IST" name="setUp" finished-at="2023-02-07T18:14:03 IST" duration-ms="25755" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addNewCustomer()[pri:0, instance:com.myBanking.testCases.TC_AddCustomer_003@1ed6388a]" started-at="2023-02-07T18:14:03 IST" name="addNewCustomer" finished-at="2023-02-07T18:14:36 IST" duration-ms="32330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewCustomer -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.myBanking.testCases.TC_AddCustomer_003@1ed6388a]" started-at="2023-02-07T18:14:36 IST" name="tearDown" finished-at="2023-02-07T18:14:41 IST" duration-ms="5777" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.myBanking.testCases.TC_AddCustomer_003 -->
+      <class name="com.myBanking.testCases.TC_Logintest_001">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.myBanking.testCases.TC_Logintest_001@783a467b]" started-at="2023-02-07T18:12:46 IST" name="setUp" finished-at="2023-02-07T18:13:23 IST" duration-ms="36878" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Logintest()[pri:0, instance:com.myBanking.testCases.TC_Logintest_001@783a467b]" started-at="2023-02-07T18:13:23 IST" name="Logintest" finished-at="2023-02-07T18:13:36 IST" duration-ms="12807" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logintest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.myBanking.testCases.TC_Logintest_001@783a467b]" started-at="2023-02-07T18:13:36 IST" name="tearDown" finished-at="2023-02-07T18:13:38 IST" duration-ms="1437" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.myBanking.testCases.TC_Logintest_001 -->
+    </test> <!-- BankingApp Test -->
+  </suite> <!-- myBankingP1 -->
+</testng-results>

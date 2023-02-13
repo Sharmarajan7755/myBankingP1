@@ -1,0 +1,49 @@
+My First Project:------
+https://demo.guru99.com/v4
+_____________________
+firstproject@gmail.com
+----------------------
+User ID :	mngr473734
+Password :	UnUbYru
+---------------------------
+____3 Stages of project______
+1. Implementation
+2. Execution
+3. Maintanance
+
+Maven
+pom.xml
+* With the help of plugins we can run whole framework through pom.xml file
+9:50
+
+
+Log4j
+--------------------
+log4.jar
+log4j.properties
+---------------------
+Maven Home Directory: C:\Users\rajan.sharma\apache-maven-3.9.0\bin
+
+command promt cammands:-
+cd C:\Users\rajan.sharma\eclipse-workspace\myBankingP1
+mvn clean install
+---------------------------
+git-hub repository url:-
+https://github.com/Sharmarajan7755/myBankingP1.git
+
+git command
+--------------
+git init --> Create Empty git repository(Local repository)
+git remote add origin "https://github.com/Sharmarajan7755/myBankingP1.git"
+
+git status --> what are files ready to commit in git repository.
+git add -A --> ADD all your files in to STAGING area.
+
+git config -- global user.name "rajan"
+git config -- global user.email "sharmarajan7755@gmail.com"
+
+git commit -m "This is my first commit"
+
+$ git push -u origin master //Ask you Username & password ---> pushing the files from git to github
+
+
